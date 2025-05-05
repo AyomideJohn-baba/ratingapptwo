@@ -1,0 +1,64 @@
+.starone{
+    width: 50px;
+    height: 50px;
+    background: url(imagesss/rating1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.startwo{
+    width: 50px;
+    height: 50px;
+    background: url(imagesss/rating2.avif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.starthree{
+    width: 50px;
+    height: 50px;
+    background: url(imagesss/rating3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.starfive{
+    width: 50px;
+    height: 50px;
+    background: url(imagesss/grading5.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.rating{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 50px;
+    left: 645px;
+}
+
+.h1{
+    text-align: center;
+    color: yellowgreen;
+}
+
+.btn-success{
+    position: relative;
+    left: 1000px;
+}
+
+.btn-warning{
+    width: 100%;
+}
+
+input{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
