@@ -1,7 +1,7 @@
 .starone{
     width: 50px;
     height: 50px;
-    background: url(imagesss/rating1.jpg);
+    background: url(images/rating1.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -10,7 +10,7 @@
 .startwo{
     width: 50px;
     height: 50px;
-    background: url(imagesss/rating2.avif);
+    background: url(images/rating2.avif);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -19,7 +19,7 @@
 .starthree{
     width: 50px;
     height: 50px;
-    background: url(imagesss/rating3.jpg);
+    background: url(images/rating3.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -28,7 +28,7 @@
 .starfive{
     width: 50px;
     height: 50px;
-    background: url(imagesss/grading5.jpg);
+    background: url(images/grading5.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
